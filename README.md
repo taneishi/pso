@@ -1,3 +1,3 @@
-# Particle swarm optimization demo in javascript
+# Particle swarm optimization demo in Javascript
 
 See https://taneishi.github.io/pso
