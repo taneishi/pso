@@ -32,7 +32,7 @@ var PSOdemo = function() {
     setup();
 
     function setup() {
-        canvas = document.getElementById('canvas');
+        canvas = document.getElementById('pso');
         con2d = canvas.getContext('2d');
 
         canvas.width = window.innerWidth - 20;
